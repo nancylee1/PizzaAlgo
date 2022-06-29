@@ -3,3 +3,4 @@ Decide which type of pizza to order
 Place the order
 Pay Online
 Wait for Delivery driver
+Give driver tip
